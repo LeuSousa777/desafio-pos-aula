@@ -1,18 +1,43 @@
-<h1>Wide Coverage</h1>
-<br>
-<br>
-<h2>Esse foi um projeto que eu aprendi no <a href="https://www.devclub.com.br/">DevClub</a></h2>
-<br>
-<br>
-<p><strong>Nesse projeto, aprendi a estruturar páginas com HTML, estilizar elementos com CSS e criar layouts responsivos para computadores e celulares</strong></h2> </p>
-<br>
-<br>
-<br>
-<h2>Tecnologia Utilizadas</h2>
-<br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<br>
-<br>
-<img src="https://github.com/LeuSousa777/easy-shopping/blob/main/assets/Desafio%20pag%20OK.png?raw=true" />
-<img src="https://github.com/LeuSousa777/easy-shopping/blob/main/assets/Desafio%20cel%20OK.png?raw=true" />
+# 🌍 Wide Coverage Location
+
+Este projeto é uma landing page responsiva desenvolvida durante meus estudos de programação no DevClub.
+
+A página apresenta um serviço fictício de mobilidade urbana e foi construída para se adaptar corretamente a computadores, tablets e celulares.
+
+## 📸 Demonstração do projeto
+
+## 🌐 Projeto publicado
+
+🔗 [Clique aqui para acessar o projeto](https://leusousa777.github.io/wide-coverage-location/)
+
+## 🚀 Funcionalidades
+
+- Layout responsivo
+- Menu de navegação
+- Botões de chamada para ação
+- Adaptação para computadores e celulares
+- Organização dos elementos conforme o tamanho da tela
+- Interface simples e moderna
+
+## 🛠️ Tecnologias utilizadas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50">
+
+## 📚 Aprendizados
+
+Neste projeto pratiquei:
+
+- Estruturação semântica com HTML
+- Estilização de elementos com CSS
+- Posicionamento e alinhamento de elementos
+- Utilização de Flexbox
+- Criação de Media Queries
+- Desenvolvimento de páginas responsivas
+- Adaptação do layout para diferentes telas
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Léu Sousa**.
+
+[GitHub](https://github.com/LeuSousa777)
