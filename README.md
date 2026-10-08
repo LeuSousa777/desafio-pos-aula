@@ -6,6 +6,9 @@ A página apresenta um serviço fictício de mobilidade urbana e foi construída
 
 ## 📸 Demonstração do projeto
 
+<img width="1620" height="913" alt="image" src="https://github.com/user-attachments/assets/499ae25a-532f-48f5-b866-54666355c4e7" />
+
+
 ## 🌐 Projeto publicado
 
 🔗 [Clique aqui para acessar o projeto](https://leusousa777.github.io/wide-coverage-location/)
